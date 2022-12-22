@@ -1,0 +1,17 @@
+qtcreator-template-dtk (1.1.0.1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 14 Jun 2022 17:04:39 +0800
+
+qtcreator-template-dtk (1.1.0.1) unstable; urgency=medium
+
+  * Release 1.1.0.1
+
+ -- Deepin Package Builder <packages@linuxdeepin.com>  Tue, 14 Jun 2022 16:38:30 +0800
+
+qtcreator-template-dtk (1.0.0-1) unstable; urgency=medium
+
+ * Init
+
+ -- Deepin Package Builder <packages@linuxdeepin.com>  Tue, 27 Nov 2018 10:03:28 +0000
